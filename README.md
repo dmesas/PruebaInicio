@@ -1,2 +1,4 @@
 # PruebaInicio
-Repositorio de prueba
+
+##Paradigma Tecnológico
+Repositorio de prueba creado en Paradigma.
